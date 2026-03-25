@@ -1,7 +1,7 @@
 [project]
 name = "goldrush"
 version = "0.1.0"
-description = "Add your description here"
+description = "Goldrush: A retro-style game powered by Pyxel."
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
