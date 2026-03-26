@@ -7,6 +7,9 @@ FONT_CHAR_WIDTH = 4
 
 SCENE_TITLE = "title"
 SCENE_HOME = "home"
+SCENE_CHARACTERS = "characters"
+SCENE_STAGE_MAP = "stage_map"
+SCENE_SETTINGS = "settings"
 
 COLOR_TITLE = 10
 COLOR_TEXT = 7
